@@ -1,4 +1,4 @@
-# programs-for-recording-the-seniority-of-the-company-s-employees
+# HR Management Software
  C ++, OOP software
 
 # The program provide for:
