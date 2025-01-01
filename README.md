@@ -122,7 +122,7 @@ The user module provides essential functionalities for accessing and analyzing e
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Taras-P-Kob/programs-for-recording-the-seniority-of-the-company-s-employees.git
+   git clone https://github.com/roman-zvir/hr-management-software.git
    ```
 2. Compile the code:
    ```bash
